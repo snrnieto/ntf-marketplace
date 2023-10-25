@@ -70,6 +70,6 @@ Existen muchas formas de mejorar estos contratos desde el punto de vista técnic
 
 
 # PROBLEMAS
-Al momento de subir el codigo a la testnet de goerli me surgieron varios errores con temas de librerias y otras cosas, lo que me impidió seguir continuando con el ejercicio.
+Al momento de subir el codigo a la testnet de goerli me surgieron varios errores con temas de librerias y otras cosas, lo que me impidió verificarlo y por lo cual seguir continuando con el ejercicio.
 
 
